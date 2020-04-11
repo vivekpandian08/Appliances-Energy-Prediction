@@ -11,4 +11,6 @@ Report the ten randomly selected features.
 4. Now pick ten features that you think are best suited to predict the output, and retrain your models using these ten features. 
 Compare to the case of using your original set of features and to the random features case. 
 Did your choice of features provide better results than picking random features? Why? 
-Did your choice of features provide better results than using all features? Why?
+Did your choice of features provide better results than using all features? 
+
+
